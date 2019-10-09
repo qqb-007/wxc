@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../wxc-master/admin/admin.iml" filepath="$PROJECT_DIR$/../wxc-master/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wxc-master/background.task/background.task.iml" filepath="$PROJECT_DIR$/../wxc-master/background.task/background.task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wxc-master/core/core.iml" filepath="$PROJECT_DIR$/../wxc-master/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wxc-master/merchant.api/merchant.api.iml" filepath="$PROJECT_DIR$/../wxc-master/merchant.api/merchant.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wxc-master/wxc.iml" filepath="$PROJECT_DIR$/../wxc-master/wxc.iml" />
+    </modules>
+  </component>
+</project>
